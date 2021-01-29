@@ -19,7 +19,7 @@ In this repository you will find tutorials and projects related to Machine Learn
 	- [Generative Adversarial Networks](#Generative-Adversarial-Networks)
 	- [Architectures](#architectures)
 - [TensorFlow Tutorials](#tensorflow-tutorials)
-	- [For beginners](#beginner-course)
+	- [Beginner Tutorials](#beginner-course)
 	- [Architectures](#CNN-Architectures)
 
 ## Machine Learning
@@ -88,7 +88,7 @@ If you have any specific video suggestion please make a comment on YouTube :)
 ## TensorFlow Tutorials
 If you have any specific video suggestion please make a comment on YouTube :)
 
-### For beginners
+### Beginner Tutorials
 * [![Youtube Link][logo]](https://youtu.be/5Ym-dOS9ssA) &nbsp; Tutorial 1 - Installation, Video Only
 * [![Youtube Link][logo]](https://youtu.be/HPjBY1H-U4U) &nbsp; [Tutorial 2 - Tensor Basics](https://github.com/AladdinPerzon/Machine-Learning-Collection/blob/master/ML/TensorFlow/Basics/tutorial2-tensorbasics.py)
 * [![Youtube Link][logo]](https://youtu.be/pAhPiF3yiXI) &nbsp; [Tutorial 3 - Neural Network](https://github.com/AladdinPerzon/Machine-Learning-Collection/blob/master/ML/TensorFlow/Basics/tutorial3-neuralnetwork.py)
