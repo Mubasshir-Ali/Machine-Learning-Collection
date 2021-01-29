@@ -19,7 +19,7 @@ In this repository you will find tutorials and projects related to Machine Learn
 	- [Generative Adversarial Networks](#Generative-Adversarial-Networks)
 	- [Architectures](#architectures)
 - [TensorFlow Tutorials](#tensorflow-tutorials)
-	- [Beginner Tutorials](#beginner-course)
+	- [Beginner Tutorials](#beginner-tutorials)
 	- [Architectures](#CNN-Architectures)
 
 ## Machine Learning
